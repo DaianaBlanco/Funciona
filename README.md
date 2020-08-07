@@ -1,7 +1,6 @@
 # Funciona
 
-### 📔 Proyecto para Hackathon de Le Wagon Argentina: 
-### Desarrollo de un producto digital (en proceso de desarrollo).
+### 📔 Proyecto para Hackathon de Le Wagon Argentina: Desarrollo de un producto digital (en proceso).
 
 - 📝 DISEÑO: PROTOTIPO + FIGMA 
 - 💻 CODING: HTML + CSS + BOOTSTRAP 
