@@ -1,9 +1,4 @@
-# Funciona
+# Funciona Soluciones
 
-### 📔 Proyecto para Hackathon de Le Wagon Argentina: Desarrollo de un producto digital (en proceso).
-
-- 📝 DISEÑO: PROTOTIPO + FIGMA 
-- 💻 CODING: HTML + CSS + BOOTSTRAP 
-- 🔍: MANAGEMENT: Análisis de mercado, venta, pitch.
-
+### 📔 Proyecto para Soluciones al Hogar, Inmobiliarias y Empresas (en proceso).
  👉🏻 WebPage: https://daianablanco.github.io/Funciona/
